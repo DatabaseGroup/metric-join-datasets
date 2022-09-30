@@ -1,5 +1,7 @@
 # MetricJoin Datasets
 
+[![DOI](https://zenodo.org/badge/543141886.svg)](https://zenodo.org/badge/latestdoi/543141886)
+
 This repository contains instructions to access the experimental data used in the paper "MetricJoin: Leveraging Metric Properties for Robust Exact Set Similarity Joins".
 
 # Datasets
